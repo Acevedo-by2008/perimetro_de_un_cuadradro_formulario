@@ -30,6 +30,7 @@ namespace Perimetro_de_un_cuadrado
         private void btnClear_Click(object sender, EventArgs e)
         {
             txtLado.Clear();
+            txtPerimetro.Clear();
         }
 
         private void txtLado_TextChanged(object sender, EventArgs e)
